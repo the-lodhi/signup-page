@@ -1,0 +1,91 @@
+.main{
+	border: 1px solid silver;
+	width: 75%;
+	height:635px;
+	margin-left:10%;
+	border-radius: 10px;
+}
+.seconddiv{
+	position: absolute;
+	width:880px;
+	height:290px;
+	margin-left:45px;
+	margin-top:9px;
+}
+.content{
+	border-radius:8px;
+	position: absolute;
+	box-shadow: 1px 2px 10px silver;
+	width: 750px;
+	height:420px;
+	margin-left:110px;
+	margin-top:210px;
+	background-image:linear-gradient(to top,white 80%,silver);
+}
+.sign{
+	width:500px;
+	height:50px;
+	margin-left:140px;
+	margin-top:10px;
+	font-size:30px;
+	font-weight: bold;
+	color:black;
+	text-align: center;
+}
+.form{
+	width:600px;
+	height:350px;
+	margin-left:140px;
+}
+.input{
+	margin-top:20px;
+	height:50px;
+}
+.space{
+	margin-top:30px;
+	height:20px;
+	font-weight:700;
+	margin-right: 30px;
+	border: none;
+}
+.checkbox{
+	margin-top: 40px;
+	font-size:15px;
+	font-weight: bold;
+	margin-left: 120px;
+}
+.signup{
+	width:420px;
+	height:28px;
+	background:royalblue;
+	margin-left:15px;
+	margin-top:18px;
+	border:none;
+	font-weight: bold;
+	color: white;
+	border-radius: 5px;
+}
+.signup:hover{
+    background-image:linear-gradient(darkblue,blue);
+    cursor: pointer;
+}
+.with{
+	width:200px;
+	height:20px;
+	position: absolute;
+	margin-top:230px;
+	margin-left:125px;
+	text-align: center;
+}
+.icon{
+	width:240px;
+	height:25px;
+	position: absolute;
+	margin-top:260px;
+	margin-left:105px;
+	text-align: center;
+	padding: 2px;
+	word-spacing:30px;
+	color: royalblue;
+	cursor: pointer;
+}
